@@ -1,3 +1,5 @@
+# 👋 Hola, mi nombre es Eduardo Hernández Soto
+
 - 👋 Hola, mi nombre es Eduardo Hernández Soto, desarrollador frontend jr basado en la web, con conocimientos básicos en ux y gustos por el backend.
 Déjame contarte algo sobre mí, cuando sali de la universidad, decidí explorar varios caminos. Me centre más en UX, pero me di cuenta que 
 era difícil entrar como junior. Así que por el tiempo que ya iba desempleado, retomo el desarrollo como frontend. Todo este proceso me ha llevado en grandes aprendizajes
