@@ -7,7 +7,11 @@ Déjame contarte algo sobre mí, cuando sali de la universidad, decidí explorar
 era difícil entrar como junior. Así que por el tiempo que ya iba desempleado, retomo el desarrollo como frontend. Todo este proceso me ha llevado en grandes aprendizajes
 y habilidades. 
 
-- Ahora estoy aquí en la búsqueda de trabajo como frontend. 
+## 🕵️ Actualmente
+- Estoy en la búsqueda de trabajo como frontend. 
+- Me encuentro especializando en Frontend, y aprendiendo más cosas.
+
+## 👨🏻‍🎓Estudié 
 - Estudie la carrera de ingeniería en tecnologías de la información.
 
 <!---
