@@ -13,7 +13,7 @@
 - Déjame contarte algo sobre mí, cuando sali de la universidad, decidí explorar varios caminos. Me centre más en UX, pero me di cuenta que 
 era difícil entrar como junior. Así que por el tiempo que ya iba desempleado, retomo el desarrollo como frontend. Todo este proceso me ha llevado en grandes aprendizajes
 y habilidades. 
-- Me encanta darle vida a soluciones, usando el lenguaje que permita interactuar con la computadora o la web.
+- Me gusta dar vida a soluciones, usando el lenguaje que permita interactuar con la computadora o la web.
 
 ## 🕵️ Actualmente
 - Estoy en la búsqueda de trabajo como frontend. 
