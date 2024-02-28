@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hola, mi nombre es Eduardo Hernández Soto </h1>
-<p align="center">Frontend Web con conocimientos básicos en ux y gustos por el backend. </p>
+<p align="center">Desarrollador backend</p>
 
 ## 📱 Mis redes sociales:
 <p align="left">
@@ -10,15 +10,11 @@
 </p>
 
 ## 👨🏻‍💻 Sobre mí
-- Déjame contarte algo sobre mí, cuando sali de la universidad, decidí explorar varios caminos. Me centre más en UX, pero me di cuenta que 
-era difícil entrar como junior. Así que por el tiempo que ya iba desempleado, retomo el desarrollo como frontend. Todo este proceso me ha llevado en grandes aprendizajes
-y habilidades. 
-- Me gusta dar vida a soluciones, usando el lenguaje que permita interactuar con la computadora o la web.
+Desarrollador de software especializado en el desarrollo de aplicaciones web, utilizando el lenguaje java. Cuento con 2 años y 8 meses de experiencia.  Mi enfoque se centra en proporcionar soluciones efectivas y de alta calidad, trabajando tanto de forma colaborativa como independiente.
 
 ## 🕵️ Actualmente
-- Estoy en la búsqueda de trabajo como frontend. 
-- Me encuentro especializando en Frontend, y aprendiendo más cosas.
-
+- Estoy en la búsqueda de trabajo remoto o híbrido como desarrolador backend.
+- 
 ## 👨🏻‍🎓 Estudié 
 - Estudie la carrera de ingeniería en tecnologías de la información.
 
